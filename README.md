@@ -9,8 +9,6 @@
 # Description
 This program is made to allow a user to input an image containing a use by date somewhere within, it takes the image and locates and segments the use by date through Image processing processes. The output will be the located and cropped image of the use by date, this can be used later maybe in OCR software to detect the characters within the text with less issues.
 
-Below you will find instructions for use and the completed code for the program, outputs are located below that again when finished.
-
 More detailed analysis will be provided within the code
 
 
@@ -29,3 +27,10 @@ More detailed analysis will be provided within the code
 * Segmentation
 * Contours
 * Masking
+
+# Example input and output
+## Input image 
+![Sample Input_Image](Images/MoojuLids/mooju.jpg "Example input")
+
+## Output image
+![Sample Output_Image](DisplayTemplate.jpg "Example output")
