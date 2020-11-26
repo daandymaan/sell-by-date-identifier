@@ -1,9 +1,9 @@
 # sell-by-date-identifier
 # Members 
-|Names          |Student Numbers|Course |
-| ------------- |:-------------:| -----:|
-| Daniel Simons | C17371946     | TU586 |
-|Stephen Creighton| C17344841   | TU586 |
+|Names          |Student Numbers|Course |Blog Link|
+| ------------- |:-------------:|:-----:|---------:|
+| Daniel Simons | C17371946     | TU586 |https://danraysimons.wordpress.com/|
+|Stephen Creighton| C17344841   | TU586 |https://c17344841mytudublin.wordpress.com/|
 
 
 # Description
